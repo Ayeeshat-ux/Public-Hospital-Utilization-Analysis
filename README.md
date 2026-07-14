@@ -12,7 +12,7 @@ The Primary dataset used for this analysis is the "Public Hospital Utilization D
  - Pivot Table
 
 ### Dasboard Preview
-![Public Hospital Dashboard](public hospital dashboard.png)
+![public hospital dashboard](public hospital.png)
 
 ### Data Cleaning
 
